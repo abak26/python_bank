@@ -1,5 +1,5 @@
 # python_bank
-##A program that simulates banking software in python
+## A program that simulates banking software in python
 
 I made this program during a Pre-College summer program at Boston University. It uses the pickle library to preform serialization on "accounts" of the customer class.
 
